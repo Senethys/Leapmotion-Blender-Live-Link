@@ -10,6 +10,12 @@
 <!--content-->
 # Gemini LeapC Python Bindings
 
+> **Blender Live Link users:** this folder is a vendored upstream reference.
+> Use ..\run.cmd setup from this directory, or .\run.cmd setup from the
+> project root, then .\run.cmd launch. The sender uses CFFI ABI mode and
+> does not require the compiled leapc_cffi module or the example dependencies
+> below. See [the project setup](../README.md).
+
 [![mail](https://img.shields.io/badge/Contact-support%40ultraleap.com-00cf75)](mailto:support@ultraleap.com)
 [![discord](https://img.shields.io/badge/Discord-Server-blueviolet)][discord]
 ![GitHub](https://img.shields.io/github/license/ultraleap/leapc-python-bindings)

@@ -1,1 +1,2 @@
-git+https://github.com/ultraleap/leapc-python-bindings.git
+# Load LeapC through CFFI ABI mode; no compiler or Git install needed.
+cffi>=1.17.1,<3
